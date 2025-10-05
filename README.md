@@ -1,9 +1,5 @@
 # Heap Data Structures: Implementation, Analysis, and Applications
 
-This repository contains the implementation of **Heapsort** and its applications in **priority queue scheduling** and **sorting performance comparison**. It was developed as part of an academic assignment on heap data structures.
-
----
-
 ## Running the Code
 
 ### Requirements
