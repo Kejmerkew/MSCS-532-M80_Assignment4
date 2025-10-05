@@ -4,7 +4,7 @@ This repository contains the implementation of **Heapsort** and its applications
 
 ---
 
-## ▶️ Running the Code
+## Running the Code
 
 ### Requirements
 
@@ -29,7 +29,7 @@ There will be three outputs:
 
 ---
 
-## 📊 Summary of Findings
+## Summary of Findings
 
 * **Heapsort Performance:** Consistently runs in (O(n \log n)) time across best, average, and worst cases.
 * **Space Complexity:** Requires only (O(1)) auxiliary space since it operates in-place.
