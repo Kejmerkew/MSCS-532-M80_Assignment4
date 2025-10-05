@@ -27,8 +27,8 @@ There will be three outputs:
 
 ## Summary of Findings
 
-* **Heapsort Performance:** Consistently runs in (O(n \log n)) time across best, average, and worst cases.
-* **Space Complexity:** Requires only (O(1)) auxiliary space since it operates in-place.
+* **Heapsort Performance:** Consistently runs in O(n log n) time across best, average, and worst cases.
+* **Space Complexity:** Requires only O(1) auxiliary space since it operates in-place.
 * **Scheduler Application:** Demonstrated that heaps efficiently handle task prioritization in operating system scheduling.
 * **Comparison with Other Algorithms:**
 
